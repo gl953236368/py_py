@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/py_frida_js_demo.iml" filepath="$PROJECT_DIR$/.idea/py_frida_js_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/py_py.iml" filepath="$PROJECT_DIR$/.idea/py_py.iml" />
     </modules>
   </component>
 </project>

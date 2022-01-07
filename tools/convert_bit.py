@@ -7,6 +7,7 @@ def bin_dec(str_num):
 
 # 十六进制转十进制
 def hex_dec(str_num):
+    str_num = str_num.replace("0x", "")
     return str(int(str_num.upper(), 16))
 
 # 十进制转二进制字符串
